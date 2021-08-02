@@ -36,6 +36,7 @@ Now the program takes the team abbreviations and names the matches as so. For mo
 Q: "When I download the match It's only one match and I don't want to extract every single .zip file one by one. How do I do that quicker?"
 So if you're using the program WinRar a pretty good extraction software you can actually extract multiple files at once.
 Just select all the files you want to extract. Right click on them and select "Extract each archive to separate folder"
+
 ![Wtf are you talking about](https://techdows.com/wp-content/uploads/2009/04/extract-files-from-multiple-WinRAR-archives-at-once.png)
 
 ## Version 2.0
