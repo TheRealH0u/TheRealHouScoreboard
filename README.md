@@ -41,8 +41,8 @@ Just select all the files you want to extract. Right click on them and select "E
 ![Wtf are you talking about](https://techdows.com/wp-content/uploads/2009/04/extract-files-from-multiple-WinRAR-archives-at-once.png)
 
 ### I dont really like the default icons
-No problem you can change them your seld. Images are 256x256px and are stored in default folder under 0.png (left team) and 1.png (right team).  
-If you want to make your own gradient Valorant logo use [this site(https://icons8.com/icon/Wm9BpxflIpY0/valorant)
+No problem you can change them your self. Images are 256x256px and are stored in default folder under 0.png (left team) and 1.png (right team).  
+If you want to make your own gradient Valorant logo use [this site(https://icons8.com/icon/Wm9BpxflIpY0/valorant).
 
 ## Version 2.0
 - Added a default folder where the default images for teams are stored.
