@@ -1,7 +1,7 @@
 # SneakyFoxesScoreboard
 A quickly made custom Scoreboard for use in Challengermode Valorant games
 
-## 1 How does it work!
+## How does it work!
 You have 4 files
 - leftTeam.png
 - leftTeam.txt
@@ -16,3 +16,8 @@ Like this: [Challenger mode Observer Package](https://help.challengermode.com/en
 
 Then you just slap those matches into matches folder. You can even rename them so you know better witch match is what.
 And thats it.
+
+##Version 2.0
+- Added a default folder where the default images for teams are stored.
+- Updated the look of the program
+- Games are no longer named by folder but are named by "one team" VS "another team"
