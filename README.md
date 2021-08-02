@@ -17,7 +17,7 @@ Like this: [Challenger mode Observer Package](https://help.challengermode.com/en
 Then you just slap those matches into matches folder. You can even rename them so you know better witch match is what.
 And thats it.
 
-##Version 2.0
+## Version 2.0
 - Added a default folder where the default images for teams are stored.
 - Updated the look of the program
 - Games are no longer named by folder but are named by "one team" VS "another team"
